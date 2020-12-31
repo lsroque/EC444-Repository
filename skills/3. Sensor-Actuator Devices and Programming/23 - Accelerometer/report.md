@@ -12,21 +12,21 @@ In skill 23, we were provided with the base code to start and were able to work 
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-3/23/images/23_Terminal_Output.jpg" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/23%20-%20Accelerometer/images/23_Terminal_Output.jpg" width="400">
 </p>
 <p>
     <em>Terminal Output</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-3/23/images/23_Data_Table.jpg" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/23%20-%20Accelerometer/images/23_Data_Table.jpg" alt="Terminal" width="600">
 </p>
 <p>
     <em>I2C table procudure</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-3/23/images/23_roll_pitch.png" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/23%20-%20Accelerometer/images/23_roll_pitch.png" alt="Terminal" width="400">
 </p>
 <p>
     <em>Roll and Pitch graphic</em>
