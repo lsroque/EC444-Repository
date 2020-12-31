@@ -11,11 +11,11 @@ In this skill we were required to use a real time operating system (RTOS) using 
 ## Sketches and Photos
 #### Set Up:
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/10/images/10_SetupUp.jpg" alt="Breadboard Setup" width="500">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/5.%20Cyberphysical%20and%20Safety-Critical%20Systems/10%20-%20RTOS/images/10_SetupUp.jpg" alt="Breadboard Setup" width="500">
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/10/images/10_SetupPins.jpg" alt="ESP Setup" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/5.%20Cyberphysical%20and%20Safety-Critical%20Systems/10%20-%20RTOS/images/10_SetupPins.jpg" alt="ESP Setup" width="400">
 </p>
 <p>
     <em>Pins used: <br/> LED Pins: A0, A1, SCK, 13 <br/> I2C Pins: 3V, GND, SCL, SDA</em>
@@ -23,7 +23,7 @@ In this skill we were required to use a real time operating system (RTOS) using 
 
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/10/images/10_SetupButton.png" alt="Setup2" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/5.%20Cyberphysical%20and%20Safety-Critical%20Systems/10%20-%20RTOS/images/10_SetupButton.png" alt="Setup2" width="400">
 </p>
 <p>
     <em>Wiring connection for button. Pins used: GND, A2</em>
@@ -31,7 +31,7 @@ In this skill we were required to use a real time operating system (RTOS) using 
 
 #### Video:
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/10/images/10_SetupDown.jpg" alt="Video Thumbnail" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/5.%20Cyberphysical%20and%20Safety-Critical%20Systems/10%20-%20RTOS/images/10_SetupDown.jpg" alt="Video Thumbnail" width="400">
 </p>
 <p>
     <em>https://youtu.be/pYvsO7hiGlw</em>
