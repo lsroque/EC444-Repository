@@ -22,6 +22,6 @@ The code for this skill is based on the Bully Algorithm, in which a leader is el
 
 ## Supporting Artifacts and References
 - [UDP Server/Client Implementation](https://www.geeksforgeeks.org/udp-server-client-implementation-c/)
-- [Election Buill Algorithm](https://www.geeksforgeeks.org/election-algorithm-and-distributed-processing/#:~:text=The%20Bully%20Algorithm%20%E2%80%93,assumed%20that%20coordinator%20has%20failed.)
+- [Election Bully Algorithm](https://www.geeksforgeeks.org/election-algorithm-and-distributed-processing/#:~:text=The%20Bully%20Algorithm%20%E2%80%93,assumed%20that%20coordinator%20has%20failed.)
 
 -----
