@@ -12,28 +12,28 @@ I ran into a couple of issues while configuring the Raspberry Pi, however, once 
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/18/images/18_Wifi_Config.jpg" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/6.%20n-Tier%20Systems%20and%20Middleware%20Glue/18%20-%20Raspberry%20Pi/images/18_Wifi_Config.jpg" width="400">
 </p>
 <p>
     <em>Wifi Configuration shown on Verizon Network</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/18/images/18_SHH.jpg" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/6.%20n-Tier%20Systems%20and%20Middleware%20Glue/18%20-%20Raspberry%20Pi/images/18_SHH.jpg" alt="Terminal" width="400">
 </p>
 <p>
     <em>SHH into Pi</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/18/images/18_SHH_Process.jpg" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/6.%20n-Tier%20Systems%20and%20Middleware%20Glue/18%20-%20Raspberry%20Pi/images/18_SHH_Process.jpg" width="400">
 </p>
 <p>
     <em>SHH Process</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/18/images/18_Port8080.jpg" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/6.%20n-Tier%20Systems%20and%20Middleware%20Glue/18%20-%20Raspberry%20Pi/images/18_Port8080.jpg" alt="Terminal" width="400">
 </p>
 <p>
     <em>Node.js Port8080</em>
