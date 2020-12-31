@@ -16,11 +16,11 @@ of 4 LEDs.
 
 #### Set Up:
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/07/images/07_Setup1.jpg" alt="Setup1" width="500">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/2.%20Single%20Microcontrollers/07%20-%20Use%20GPIO%20to%20Control%20LEDs/images/07_Setup1.jpg" alt="Setup1" width="500">
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/07/images/07_Setup2.jpg" alt="Setup2" width="500">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/2.%20Single%20Microcontrollers/07%20-%20Use%20GPIO%20to%20Control%20LEDs/images/07_Setup2.jpg" alt="Setup2" width="500">
 </p>
 <p>
     <em>GPIO Pins A0, A1, A5, and 13 used.</em>
@@ -28,7 +28,7 @@ of 4 LEDs.
 
 #### Video:
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/07/images/07_VideoThumbnail.jpg" alt="Video Thumbnail" width="500">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/2.%20Single%20Microcontrollers/07%20-%20Use%20GPIO%20to%20Control%20LEDs/images/07_VideoThumbnail.jpg" alt="Video Thumbnail" width="500">
 </p>
 <p>
     <em>https://youtu.be/CYL2S4fWAuE</em>
