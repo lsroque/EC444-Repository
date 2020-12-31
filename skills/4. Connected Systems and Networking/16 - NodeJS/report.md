@@ -10,14 +10,14 @@ In this skill we we required to download node.js, install node.js and npm, compl
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/16/images/16_Breadboard.jpg" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/4.%20Connected%20Systems%20and%20Networking/16%20-%20NodeJS/images/16_Breadboard.jpg" width="400">
 </p>
 <p>
     <em>Breadboard setup, GPIO34 works as the ADC Pin</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/16/images/16_Terminal.jpg" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/4.%20Connected%20Systems%20and%20Networking/16%20-%20NodeJS/images/16_Terminal.jpg" alt="Terminal" width="400">
 </p>
 <p>
     <em>Terminal output</em>
