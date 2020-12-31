@@ -13,14 +13,14 @@ In this skill, I used the ultrasonic range sensor and was able to use RMT (Remot
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-5/31/images/31_Terminal_Output.jpg" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/XX%20-%20Ultrasonic%20Range%202/images/31_Terminal_Output.jpg" width=600>
 </p>
 <p>
     <em>Terminal Output</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-5/31/images/31_US2_Wiring.jpg" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/XX%20-%20Ultrasonic%20Range%202/images/31_US2_Wiring.jpg" width=600>
 </p>
 <p>
     <em>Wiring. VCC to 3V, Trig to A1, Echo to A0, and GND to GND Pin on ESP</em>
