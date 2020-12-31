@@ -10,14 +10,14 @@ In this skill we were required to build up two identical breadboards of an IR em
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-4/25/images/25_FOB_Setup.jpg" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/25%20-%20IR%20TX:RX/images/25_FOB_Setup.jpg" width="400">
 </p>
 <p>
     <em>FOB Set up. 220 ohm resistors used. In the other FOB (not shown) 330 ohm resistors were used.</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-4/25/images/25_Sytem_Setup.jpg" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/25%20-%20IR%20TX:RX/images/25_Sytem_Setup.jpg" alt="System Setup" width="400">
 </p>
 <p>
     <em>Fob System. As shown, the IR LED's are bent at a 90 degree angle towards the other FOB and the IR receiver diodes 'curvy part' are set towards each other.</em>
