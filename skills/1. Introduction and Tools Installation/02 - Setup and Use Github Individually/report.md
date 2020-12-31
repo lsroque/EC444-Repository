@@ -13,13 +13,13 @@ The process of cloning, committing, and pushing is shown below.
 
 ## Sketches and Photos
 #### Clone:
-![Clone](https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-0/02/images/02_Clone.jpg)
+![Clone](https://github.com/lsroque/EC444-Repository/blob/master/skills/1.%20Introduction%20and%20Tools%20Installation/02%20-%20Setup%20and%20Use%20Github%20Individually/images/02_Clone.jpg)
 #### Commit:
-![Commit](https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-0/02/images/02_Commit.jpg)
+![Commit](https://github.com/lsroque/EC444-Repository/blob/master/skills/1.%20Introduction%20and%20Tools%20Installation/02%20-%20Setup%20and%20Use%20Github%20Individually/images/02_Commit.jpg)
 ### Push:
-![Push](https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-0/02/images/02_Final.jpg)
+![Push](https://github.com/lsroque/EC444-Repository/blob/master/skills/1.%20Introduction%20and%20Tools%20Installation/02%20-%20Setup%20and%20Use%20Github%20Individually/images/02_Push.jpg)
 ### Final:
-![Final](https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-0/02/images/02_Push.jpg)
+![Final](https://github.com/lsroque/EC444-Repository/blob/master/skills/1.%20Introduction%20and%20Tools%20Installation/02%20-%20Setup%20and%20Use%20Github%20Individually/images/02_Final.jpg)
 
 ## Modules, Tools, Source Used Including Attribution
 
