@@ -12,7 +12,7 @@ The purpose of this skill is to make a stopwatch that uses a pushbutton, alphanu
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/11/images/11_Setup1.jpg" alt="Breadboard Setup" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/2.%20Single%20Microcontrollers/11%20-%20Stopwatch/images/11_Setup1.jpg" alt="Breadboard Setup" width="400">
 </p>
 <p>
     <em>Breadboard setup</em>
@@ -20,7 +20,7 @@ The purpose of this skill is to make a stopwatch that uses a pushbutton, alphanu
 
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/11/images/11_Setup2.jpg" alt="Wrapping Modulo" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/2.%20Single%20Microcontrollers/11%20-%20Stopwatch/images/11_Setup2.jpg" alt="Wrapping Modulo" width="400">
 </p>
 <p>
     <em>Timer wrapping modulo</em>
