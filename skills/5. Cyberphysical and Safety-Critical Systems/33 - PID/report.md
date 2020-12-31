@@ -10,14 +10,14 @@ In this skill, we are required to use a range sensor and implement a proportiona
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-5/33/images/33_Wiring.jpg" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/5.%20Cyberphysical%20and%20Safety-Critical%20Systems/33%20-%20PID/images/33_Wiring.jpg" width=600>
 </p>
 <p>
     <em>Wiring with 330 ohm resistors. LED GPIO 13, 5, and 12 are used for blue, green, and yellow respectively.</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-5/33/images/33_PID_Terminal.png" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/5.%20Cyberphysical%20and%20Safety-Critical%20Systems/33%20-%20PID/images/33_PID_Terminal.png" width=600>
 </p>
 <p>
     <em>Terminal Output</em>
