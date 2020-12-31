@@ -12,14 +12,14 @@ In this skill we were required to establish the ESP32 to the WiFi LAN (Wireless 
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-3/22/images/22_Terminal_Output.png" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/4.%20Connected%20Systems%20and%20Networking/22%20-%20WiFi%20ESP32/images/22_Terminal_Output.png" width="400">
 </p>
 <p>
     <em>Terminal Output</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-3/22/images/BIG%20LED.png" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/4.%20Connected%20Systems%20and%20Networking/22%20-%20WiFi%20ESP32/images/BIG%20LED.png" width="400">
 </p>
 <p>
     <em>Device List on the Verizon Fios Network</em>
