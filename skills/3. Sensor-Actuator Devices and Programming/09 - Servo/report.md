@@ -11,14 +11,14 @@ In this skill, we were required to control the servo using an ESP32. In order to
 ## Sketches and Photos
 #### Set Up:
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/09/images/09_ServoToEspPins.jpg" alt="Setup1" width="500">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/09%20-%20Servo/images/09_ServoToEspPins.jpg" alt="Setup1" width="500">
 </p>
 <p>
     <em>GPIO Pins 3V, GND, and 18 used.</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/09/images/09_ServoToEspWires.jpg" alt="Setup2" width="500">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/09%20-%20Servo/images/09_ServoToEspWires.jpg" alt="Setup2" width="500">
 </p>
 <p>
     <em>Wiring on ESP</em>
@@ -26,7 +26,7 @@ In this skill, we were required to control the servo using an ESP32. In order to
 
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/09/images/09_ServotoEspConnection.jpg" alt="Setup2" width="500">
+<img src="hhttps://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/09%20-%20Servo/images/09_ServotoEspConnection.jpg" alt="Setup2" width="500">
 </p>
 <p>
     <em>Wiring connection from Servo to ESP:<br/> Servo Brown Wire/Black Wire -> GND<br/> Servo Red Wire/ Orange Wire -> POWER (3V) <br/> Orange Servo Wire/ Yellow Wire -> SIGNAL(GPIO Pin 18)</em>
@@ -34,7 +34,7 @@ In this skill, we were required to control the servo using an ESP32. In order to
 
 #### Video:
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/09/images/09_VideoThumbnail.jpg" alt="Video Thumbnail" width="500">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/09%20-%20Servo/images/09_VideoThumbnail.jpg" alt="Video Thumbnail" width="500">
 </p>
 <p>
     <em>https://youtu.be/L93I1Z6jpNg</em>
