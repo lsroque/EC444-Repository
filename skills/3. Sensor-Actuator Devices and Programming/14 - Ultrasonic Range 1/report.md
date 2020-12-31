@@ -10,14 +10,14 @@ In this skill, we were able to use an ultrasonic sensor to estimate the distance
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/14/images/14_Breadboard.jpg" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/14%20-%20Ultrasonic%20Range%201/images/14_Breadboard.jpg" width="400">
 </p>
 <p>
     <em>Breadboard setup</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/14/images/14_Terminal.jpg" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/14%20-%20Ultrasonic%20Range%201/images/14_Terminal.jpg" alt="Terminal" width="400">
 </p>
 <p>
     <em>Terminal Output</em>
