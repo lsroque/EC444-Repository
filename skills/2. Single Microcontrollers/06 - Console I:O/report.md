@@ -12,21 +12,21 @@ In this skill, we were required to interact with the console. I was able to use 
 Shown below is the on board LED toggled on/off based on key input 't.' <br />
 
 <p align="left">
-  <img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/06/images/06_Toggle1.jpg" alt="Toggle1" width="500">
+  <img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/2.%20Single%20Microcontrollers/06%20-%20Console%20I:O/images/06_Toggle1.jpg" alt="Toggle1" width="500">
 </p>
 <p>
     <em>toggle off</em>
 </p>
 
 <p align="left">
-  <img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/06/images/06_Toggle2.jpg" alt="Toggle1" width="500">
+  <img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/2.%20Single%20Microcontrollers/06%20-%20Console%20I:O/images/06_Toggle2.jpg" alt="Toggle1" width="500">
 </p>
 <p>
     <em>toggle on</em>
 </p>
 
 <p align="left">
-  <img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/06/images/06_Toggle3.jpg" alt="Toggle1" width="500">
+  <img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/2.%20Single%20Microcontrollers/06%20-%20Console%20I:O/images/06_Toggle3.jpg" alt="Toggle1" width="500">
 </p>
 <p>
     <em>toggle off</em>
