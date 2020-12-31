@@ -11,14 +11,14 @@ In this skill, we are required to build an Finite State Machine Model (FSM) Mode
 ## Sketches and Photos
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-4/27/images/27_FSM_Model.jpg" width="700">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/6.%20n-Tier%20Systems%20and%20Middleware%20Glue/27%20-%20Databases/images/27_FSM_Model.jpg" width="700">
 </p>
 <p>
     <em>FSM Model</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-4/27/images/27_Table.jpg" width="700">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/6.%20n-Tier%20Systems%20and%20Middleware%20Glue/27%20-%20Databases/images/27_Table.jpg" width="700">
 </p>
 <p>
     <em>State Table</em>
