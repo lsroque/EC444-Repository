@@ -10,14 +10,14 @@ In this skill we were required to choose a database to work with (i.e. tingodb),
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-4/26/images/26_Database_Query.jpg" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/5.%20Cyberphysical%20and%20Safety-Critical%20Systems/26%20-%20Leader%20Election/images/26_Database_Query.jpg" width="400">
 </p>
 <p>
     <em>Database Query to retrieve IDs with Smoke and Temp</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-4/26/images/26_Database_Textfile_Output.jpg" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/5.%20Cyberphysical%20and%20Safety-Critical%20Systems/26%20-%20Leader%20Election/images/26_Database_Textfile_Output.jpg" alt="Terminal" width="400">
 </p>
 <p>
     <em>Textfile Output</em>
