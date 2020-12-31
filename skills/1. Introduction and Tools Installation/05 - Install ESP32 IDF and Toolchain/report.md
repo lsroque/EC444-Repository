@@ -12,7 +12,7 @@ Afterwards, I tried the process out again using the downloaded 'Blink' example f
 
 
 ## Sketches and Photos
-![Terminal Output](https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-0/05/images/05_Terminal_Blink.jpg)
+![Terminal Output](https://github.com/lsroque/EC444-Repository/blob/master/skills/1.%20Introduction%20and%20Tools%20Installation/05%20-%20Install%20ESP32%20IDF%20and%20Toolchain/images/05_Terminal_Blink.jpg)
 
 ## Modules, Tools, Source Used Including Attribution
 
