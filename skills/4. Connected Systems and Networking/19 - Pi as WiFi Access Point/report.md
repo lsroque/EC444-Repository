@@ -13,14 +13,14 @@ In this skill we were required to set out channel assignments based on our team 
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-3/19/images/19_Step2.jpg" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/4.%20Connected%20Systems%20and%20Networking/19%20-%20Pi%20as%20WiFi%20Access%20Point/images/19_Step2.jpg" width="400">
 </p>
 <p>
     <em>Step 2 Enabling Connection Sharing</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-3/19/images/19_Terminal_Output.jpg" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/4.%20Connected%20Systems%20and%20Networking/19%20-%20Pi%20as%20WiFi%20Access%20Point/images/19_Terminal_Output.jpg" alt="Terminal" width="400">
 </p>
 <p>
     <em>Step 3 Configure Pi as wireless access point</em>
