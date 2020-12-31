@@ -10,14 +10,14 @@ In this skill we were required to use a long range IR sensor to measure the dist
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/15/images/15_Breadboard.jpg" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/15%20-%20IR%20Rangefinder/images/15_Breadboard.jpg" width="400">
 </p>
 <p>
     <em>Breadboard setup, GPIO34 works as the ADC Pin</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/15/images/15_Terminal.jpg" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/15%20-%20IR%20Rangefinder/images/15_Terminal.jpg" alt="Terminal" width="400">
 </p>
 <p>
     <em>Terminal output</em>
