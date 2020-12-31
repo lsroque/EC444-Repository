@@ -10,7 +10,7 @@ In this skill, we were required to measure the voltage of the ESP board at the A
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/12/images/12_BatteryConnection.png" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/12%20-%20Battery%20Monitor/images/12_BatteryConnection.png" width="400">
 </p>
 <p>
     <em>Breadboard setup and battery connection</em>
@@ -18,21 +18,21 @@ In this skill, we were required to measure the voltage of the ESP board at the A
 
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/12/images/12_Wiring.png" alt="Wiring" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/12%20-%20Battery%20Monitor/images/12_Wiring.png" alt="Wiring" width="400">
 </p>
 <p>
     <em>Wiring </em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/12/images/12_Math.jpg" alt="Math" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/12%20-%20Battery%20Monitor/images/12_Math.jpg" alt="Math" width="400">
 </p>
 <p>
     <em>Voltage divider equation, 1M ohm resistors used.</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/12/images/12_Terminal.png" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/12%20-%20Battery%20Monitor/images/12_Terminal.png" alt="Terminal" width="400">
 </p>
 <p>
     <em>Terminal Output</em>
