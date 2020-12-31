@@ -10,21 +10,21 @@ The goal of this skill it to measure the wheel speed of the purple car. To deter
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-5/32/images/32_Wiring2.jpg" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/32%20-%20Wheel%20Speed%20(TT%20Motor)/images/32_Wiring2.jpg" width=600>
 </p>
 <p>
     <em>Wiring. Black is the emitter connected to ground, Orange is the anode (connected to 330 ohm resistor and 5V), Green is the collector (connected to 10k ohm resistor, GPIO 34 (A2), and 5V), and Yellow is the cathode connected to ground</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-5/32/images/32_Wiring1.jpg" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/32%20-%20Wheel%20Speed%20(TT%20Motor)/images/32_Wiring1.jpg" width=600>
 </p>
 <p>
     <em>Wiring Side View</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-5/32/images/32_Wheel_Paper.jpg" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/32%20-%20Wheel%20Speed%20(TT%20Motor)/images/32_Wheel_Paper.jpg" width=600>
 </p>
 <p>
     <em>Optical Encoder and Black and White Paper shown on wheel </em>
@@ -32,7 +32,7 @@ The goal of this skill it to measure the wheel speed of the purple car. To deter
 
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-5/32/images/32_Terminal_Output.jpg" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/32%20-%20Wheel%20Speed%20(TT%20Motor)/images/32_Terminal_Output.jpg" width=600>
 </p>
 <p>
     <em>Terminal Output</em>
