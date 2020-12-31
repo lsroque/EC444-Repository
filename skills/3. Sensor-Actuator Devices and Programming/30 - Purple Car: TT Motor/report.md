@@ -10,14 +10,14 @@ In this skill, I was required to assemble the car and program its motors to move
 
 ## Sketches and Photos
   <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-5/30/images/30_Breadboard_Setup.jpg" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/30%20-%20Purple%20Car:%20TT%20Motor/images/30_Breadboard_Setup.jpg" width=600>
 </p>
 <p>
     <em>Breadboard Setup</em>
 </p>
 
   <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-5/30/images/30_Car_Assembly.jpg" width=600>
+<img src=https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/30%20-%20Purple%20Car:%20TT%20Motor/images/30_Car_Assembly.jpg" width=600>
 </p>
 <p>
     <em>Car Assembly</em>
