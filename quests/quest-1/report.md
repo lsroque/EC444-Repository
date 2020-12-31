@@ -41,11 +41,11 @@ Another obstacle we faced was getting the servo to rotate the correct number of 
 
 
 ## <em>Sketches and Photos</em>
-<center><img src="https://github.com/BU-EC444/Team15-Eze-Ganchozo-Roque/blob/master/quest-1/images/quest1_image1.jpeg" width="45%" /></center>  
+<center><img src="https://github.com/lsroque/EC444-Repository/blob/master/quests/quest-1/images/quest1_image1.jpeg" width="45%" /></center>  
 <center> </center> 
 <p><em> Circuitry set up. Use of GPIO Pins GND, 3V, SCL, SDA, MO. </em></p>
 
-<center><img src="https://github.com/BU-EC444/Team15-Eze-Ganchozo-Roque/blob/master/quest-1/images/quest1_image2.jpg" width="45%" /></center>  
+<center><img src="https://github.com/lsroque/EC444-Repository/blob/master/quests/quest-1/images/quest1_image2.jpg" width="45%" /></center>  
 <center> </center>
 <p><em> Minutes and seconds display</em></p>
 
