@@ -11,7 +11,7 @@ In this skill, we were required to create a circuit that would use the PWM outpu
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-3/24/images/24_LED_Wiring.jpg" alt="Terminal" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/2.%20Single%20Microcontrollers/24%20-%20Use%20PWM%20to%20Control%20Power%20to%20an%20LED/images/24_LED_Wiring.jpg" alt="Wiring" width="400">
 </p>
 <p>
     <em>Wiring. GPIO Pin 18 used.</em>
