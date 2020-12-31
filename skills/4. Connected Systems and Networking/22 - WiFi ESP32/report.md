@@ -29,7 +29,7 @@ In this skill we were required to establish the ESP32 to the WiFi LAN (Wireless 
 - WiFi Channel Assignments
 
 ## Supporting Artifacts
-- [Notes on WiFi Channel Assignements](https://www.metageek.com/training/resources/use-router-with-dsl.html)
+- [Notes on WiFi Channel Assignments](https://www.metageek.com/training/resources/use-router-with-dsl.html)
 
 
 -----
