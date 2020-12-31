@@ -6,12 +6,12 @@ Date: 2020-11-10
 -----
 
 ## Summary
-Security issues can prove very harmful for any system we are creating. A person could take control of devices, falsify data, interrupt flow of data, etc.  The purpose of this assignment is to sketch an overall flow of information to drive a car with remote control, identify weaknesses in the system, identify 5 ways a bad guy could attack this syetms, and describe ways to mitigate these issues.
+Security issues can prove very harmful for any system we are creating. A person could take control of devices, falsify data, interrupt flow of data, etc.  The purpose of this assignment is to sketch an overall flow of information to drive a car with remote control, identify weaknesses in the system, identify 5 ways a bad guy could attack this system, and describe ways to mitigate these issues.
 
 #### Questions
 1. Sketch the overall flow of information to drive a car with remote control over the Internet
   <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-4/29/images/29_Flowchart.jpg" alt="Terminal">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/5.%20Cyberphysical%20and%20Safety-Critical%20Systems/29%20-%20Security%20Issues/images/29_Flowchart.jpg" alt="Flowchart">
 </p>
 <p>
     <em>Flowchart to drive a car with remote control</em>
