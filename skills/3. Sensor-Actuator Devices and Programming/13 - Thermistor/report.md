@@ -10,21 +10,21 @@ In this skill we were required to create a voltage divider for the thermistor, w
 
 ## Sketches and Photos
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/13/images/13_ThermistorConnection.jpg" alt="Wiring" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/13%20-%20Thermistor/images/13_ThermistorConnection.jpg" alt="Wiring" width="400">
 </p>
 <p>
     <em>Wiring and Themistor Connection to GPIO34</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/13/images/13_ESPConnection.jpg" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/13%20-%20Thermistor/images/13_ESPConnection.jpg" width="400">
 </p>
 <p>
-    <em>ESP Connection - Battery pin and A2 are used/em>
+    <em>ESP Connection - Battery pin and A2 are used</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-2/13/images/13_Terminal.jpg" alt="Math" width="400">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/13%20-%20Thermistor/images/13_Terminal.jpg" alt="Math" width="400">
 </p>
 <p>
     <em>Terminal Output.</em>
