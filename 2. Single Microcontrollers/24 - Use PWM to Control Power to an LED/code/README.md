@@ -1,0 +1,3 @@
+# Code Readme
+
+In this skill, I modified the program called ledc_example_main.c. In order to set up 10 intervals (from 0 to 9), I set the PWM min as 0 (for 0) and set the max as 3600 (for 9). The maximum brightness is acheived with a PWM of 4000, however, to prevent burn-out, only 90% of that value was set as the highest intensity. Moreover, in this code I used conditional statement based on the users input. If the user were to press a number between 0 and 9, the LED would shine bright at that value for 250ms and then the user would be able to input another number and dim the LED or increase its brightness. A vTaskDelay was implementes to set up the 250ms delay for the LED.
