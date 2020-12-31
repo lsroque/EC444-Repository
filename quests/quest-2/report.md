@@ -47,9 +47,9 @@ The graphing portion of the quest initially proved to be very difficult. We had 
 <center><img src="./images/ece444.png" width="25%" /></center>  
 <center> </center>
 
-<img src="https://user-images.githubusercontent.com/44929220/95805116-a4a6ea80-0cd2-11eb-874c-921cc0483238.jpg" height="250" width="650">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/quests/quest-2/images/Quest2_Breadboard.jpg" width="650">
 
-<img src="https://user-images.githubusercontent.com/44929220/95805098-9bb61900-0cd2-11eb-873f-aebd69e1af99.jpg" height="250" width="650">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/quests/quest-2/images/Quest2_Graph.jpg" width="650">
 
 
 ## Supporting Artifacts
