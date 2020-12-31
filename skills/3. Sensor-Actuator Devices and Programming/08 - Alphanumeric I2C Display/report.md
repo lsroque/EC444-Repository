@@ -12,14 +12,14 @@ In this skill, we were required to wire up the alphanumeric display on our bread
 #### Circuitry Setup
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/08/images/08_CircuitrySetup.jpg" alt="Circuitry Setup" width="500">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/08%20-%20Alphanumeric%20I2C%20Display/images/08_CircuitrySetup.jpg" alt="Circuitry Setup" width="500">
 </p>
 <p>
     <em>GPIO Pins SCL and SDA used.</em>
 </p>
 
 <p align="left">
-<img src="https://github.com/BU-EC444/Roque-Lesbeth/blob/master/skills/cluster-1/08/images/08_I2CDemo.jpg" alt="Setup2" width="500">
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/skills/3.%20Sensor-Actuator%20Devices%20and%20Programming/08%20-%20Alphanumeric%20I2C%20Display/images/08_I2CDemo.jpg" alt="Setup2" width="500">
 </p>
 <p>
     <em>Program output. My initials and a star is shown.</em>
