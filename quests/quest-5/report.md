@@ -55,17 +55,17 @@ Last, UDP was incredibly important in allowing the ESP to send and receive data.
 
 <i>Meet Patricia, our Buggy :)</i>
 <p align="left">
-<img src="https://github.com/lsroque/EC444-Repository/blob/master/quest-5/images/quest5_buggy.jpg" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/quests/quest-5/images/quest5_buggy.jpg" width=600>
 </p>
 
 <i>Optical Encoder and Black and White Wheel</i>
 <p align="left">
-<img src="https://github.com/lsroque/EC444-Repository/blob/master/quest-5/images/quest5_encoder.jpg" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/quests/quest-5/images/quest5_encoder.jpg" width=600>
 </p>
 
 <i>Alphanumeric Display</i>
 <p align="left">
-<img src="https://github.com/lsroque/EC444-Repository/blob/master/quest-5/images/quest5_alphanumeric.jpg" width=600>
+<img src="https://github.com/lsroque/EC444-Repository/blob/master/quests/quest-5/images/quest5_alphanumeric.jpg" width=600>
 </p>
 
 
